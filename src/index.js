@@ -24,7 +24,7 @@ function Home() {
     return(
         <div>
             <h1 className="text-white">Home Route</h1>
-            <Link to="/learn" >LEarn</Link>
+            <Link className="btn btn-primary" to="/learn" >LEarn</Link>
         </div>
     )
 }
