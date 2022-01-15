@@ -1,8 +1,8 @@
 {
   "name": "react-router",
   "version": "0.1.0",
-  "homepage": ".",
-  "start_url": ".",
+  "homepage": "https://elastic-banach-20cfbb.netlify.app/",
+  "start_url": "https://elastic-banach-20cfbb.netlify.app/",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.1",
